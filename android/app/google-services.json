@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1054012562102",
+    "project_id": "nabed-shop-getx-f8ec3",
+    "storage_bucket": "nabed-shop-getx-f8ec3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054012562102:android:10a3b3467097abad6aa417",
+        "android_client_info": {
+          "package_name": "com.example.naped_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054012562102-sf8vo4lscs4d3ls9ej29huhjc2p0jv3q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.naped_shop",
+            "certificate_hash": "e0d505dfd7fa79f71a1cbba9f6c20dfc2335aad7"
+          }
+        },
+        {
+          "client_id": "1054012562102-13u9rv365cv8e3kovc1442un0kkr79k8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2wFBfoRAEB15fbKfiCJYUylI82YuEFx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054012562102-13u9rv365cv8e3kovc1442un0kkr79k8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
