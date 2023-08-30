@@ -7,7 +7,6 @@ import '../../../logic/controllers/payment_controller.dart';
 import '../../../routes/routes.dart';
 import '../text_utils.dart';
 
-
 class DeliveryContinerWidget extends StatefulWidget {
   const DeliveryContinerWidget({Key? key}) : super(key: key);
 
@@ -29,8 +28,8 @@ class _DeliveryContinerWidgetState extends State<DeliveryContinerWidget> {
       children: [
         buildRadioContiner(
           address: "Palestain,KhanYunes-BaniSuhela",
-          name: "asroo store",
-          phone: "059-7770-684",
+          name: "Nabed Shop",
+          phone: "59-7770-684",
           title: "Nabed Shop",
           value: 1,
           color: changeColors ? Colors.white : Colors.grey.shade300,
@@ -214,7 +213,7 @@ class _DeliveryContinerWidgetState extends State<DeliveryContinerWidget> {
                 ),
                 Row(
                   children: [
-                    const Text('🇪🇬+02 '),
+                    const Text('🇵🇸+970 '),
                     TextUtils(
                       fontsize: 15,
                       fontWeight: FontWeight.normal,
