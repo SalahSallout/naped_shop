@@ -7,7 +7,6 @@ import 'package:naped_shop/logic/controllers/theme_controller.dart';
 import 'package:naped_shop/routes/routes.dart';
 import 'package:naped_shop/utils/my_string.dart';
 import 'package:naped_shop/utils/theme.dart';
-
 import 'language/localiztion.dart';
 
 void main() async {

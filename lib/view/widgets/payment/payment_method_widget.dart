@@ -1,13 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:get/get_core/src/get_main.dart';
 import 'package:naped_shop/utils/theme.dart';
-
 import '../../../logic/controllers/auth_controller.dart';
 import '../../../logic/controllers/cart_controller.dart';
 import '../../../logic/controllers/payment_controller.dart';
 import '../text_utils.dart';
-
 
 class PayMentMethodWidget extends StatefulWidget {
   const PayMentMethodWidget({Key? key}) : super(key: key);
